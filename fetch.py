@@ -1,4 +1,4 @@
-import json, time, gzip, io, hashlib
+import json, time, gzip, hashlib
 from pathlib import Path
 import requests
 
@@ -9,7 +9,7 @@ INDEX = ROOT / "index.html"
 
 OUT.mkdir(parents=True, exist_ok=True)
 
-UA = "Mozilla/5.0 (RSS-Proxy; +https://github.com/yourname/rss-proxy)"
+UA = "Mozilla/5.0 (RSS-Proxy; +https://github.com)"
 TIMEOUT = 15
 RETRIES = 3
 
@@ -28,77 +28,75 @@ def fetch(url: str) -> bytes:
             )
             r.raise_for_status()
             data = r.content
-            # 解压 gzip
             if r.headers.get("Content-Encoding", "").lower() == "gzip":
                 data = gzip.decompress(data)
             return data
         except Exception as e:
             last_exc = e
+            print(f"[RETRY {i+1}] {url} -> {e}")
             time.sleep(1.5 * (i + 1))
     raise last_exc
 
-def write_if_changed(path: Path, data: bytes) -> bool:
-    if path.exists():
-        if hashlib.sha256(path.read_bytes()).digest() == hashlib.sha256(data).digest():
-            return False
+def write_bytes(path: Path, data: bytes) -> bool:
+    before = path.read_bytes() if path.exists() else None
+    if before == data:
+        return False
     path.write_bytes(data)
     return True
 
+def placeholder_xml(name: str, src: str, err: str) -> bytes:
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>{name} (mirror error)</title>
+    <link>{src}</link>
+    <description>Failed to fetch source: {err}</description>
+    <item>
+      <title>Mirror unavailable</title>
+      <link>{src}</link>
+      <description><![CDATA[{err}]]></description>
+      <pubDate>{time.strftime("%a, %d %b %Y %H:%M:%S +0000", time.gmtime())}</pubDate>
+    </item>
+  </channel>
+</rss>
+""".encode("utf-8")
+
 def build_index(rows):
-    # 简单的目录页，方便用户点击复制
     items = "\n".join(
-        f'<li><a href="feeds/{row["file"]}" target="_blank" rel="noopener">{row["name"]}</a> '
-        f'&nbsp; <code>feeds/{row["file"]}</code></li>'
+        f'<li><a href="feeds/{row["file"]}" target="_blank" rel="noopener">'
+        f'{row["name"]}</a> &nbsp;<code>feeds/{row["file"]}</code></li>'
         for row in rows
     )
     return f"""<!doctype html>
-<html lang="en">
-<meta charset="utf-8">
+<html lang="en"><meta charset="utf-8">
 <title>RSS Proxy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body{{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;padding:24px;line-height:1.6}}
-code{{background:#f4f4f4;padding:2px 4px;border-radius:4px}}
-</style>
-<h1>RSS Proxy (GitHub Pages)</h1>
-<p>Mirrored feeds for regions where originals are hard to access. Content is unmodified and for personal/educational use. Attribution preserved.</p>
+<h1>RSS Proxy</h1>
 <ol>
 {items}
 </ol>
-<hr>
-<p>Generated at {time.strftime("%Y-%m-%d %H:%M:%S %Z", time.gmtime())}</p>
+<p>Generated at {time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())}</p>
 </html>"""
 
 def main():
     cfg = json.loads(CFG.read_text(encoding="utf-8"))
     rows = []
-    changed_any = False
-
     for row in cfg:
-        name = row["name"]
-        src = row["source"]
-        file = row["file"]
+        name, src, file = row["name"], row["source"], row["file"]
         dest = OUT / file
         try:
             data = fetch(src)
-            if write_if_changed(dest, data):
-                print(f"[UPDATED] {name} -> feeds/{file}")
-                changed_any = True
-            else:
-                print(f"[NOCHANGE] {name}")
-            rows.append({"name": name, "file": file})
+            changed = write_bytes(dest, data)
+            print(f"[{ 'UPDATED' if changed else 'NOCHANGE' }] {name} -> feeds/{file}")
         except Exception as e:
             print(f"[ERROR] {name}: {e}")
+            data = placeholder_xml(name, src, str(e))
+            write_bytes(dest, data)  # 一定写出占位，确保后续能提交
+        rows.append({"name": name, "file": file})
 
-    # 重建 index.html
-    index_html = build_index(rows)
-    if write_if_changed(INDEX, index_html.encode("utf-8")):
-        changed_any = True
-
-    if changed_any:
-        print("Done: changes committed in workflow.")
-    else:
-        print("Done: nothing changed.")
+    # index.html
+    html = build_index(rows).encode("utf-8")
+    write_bytes(INDEX, html)
 
 if __name__ == "__main__":
     main()

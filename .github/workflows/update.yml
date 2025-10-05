@@ -2,13 +2,11 @@ name: Update RSS
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 每 6 小时一次
-  workflow_dispatch: {}      # 允许手动触发
+    - cron: "0 */6 * * *"   # 每6小时
+  workflow_dispatch: {}
 
 permissions:
-  contents: write            # 允许提交到仓库
-  pages: read
-  id-token: write
+  contents: write
 
 concurrency:
   group: update-rss
@@ -17,9 +15,14 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
+
+      - name: Show repo status before
+        run: |
+          ls -la
+          echo "--- feeds dir ---"
+          ls -la feeds || true
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,11 +37,24 @@ jobs:
       - name: Fetch feeds
         run: |
           python fetch.py
+          echo "--- after fetch ---"
+          ls -la feeds || true
+          echo "git status:"
+          git status
 
       - name: Commit & Push if changed
         run: |
           git config user.name "rss-bot"
           git config user.email "bot@example.com"
           git add feeds/*.xml index.html || true
+          echo "--- git status after add ---"
+          git status
           git commit -m "chore: update feeds $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no changes"
           git push
+
+      - name: Upload feeds as artifact (debug)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: feeds-out
+          path: feeds
