@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Business English Pod (mirror error)</title>
+    <link>https://feeds.feedburner.com/BusinessEnglishPod</link>
+    <description>Failed to fetch source: Not a gzipped file (b'<?')</description>
+    <item>
+      <title>Mirror unavailable</title>
+      <link>https://feeds.feedburner.com/BusinessEnglishPod</link>
+      <description><![CDATA[Not a gzipped file (b'<?')]]></description>
+      <pubDate>Sun, 05 Oct 2025 05:00:17 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
