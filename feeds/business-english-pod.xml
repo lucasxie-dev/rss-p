@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-xmlns:podcast="https://podcastindex.org/namespace/1.0"
-xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" version="2.0">
 <channel>
 	<title>Business English Pod :: Learn Business English Online</title>
-	<atom:link href="https://www.businessenglishpod.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.businessenglishpod.com/feed/podcast/" rel="self" type="application/rss+xml"/>
 	<link>https://www.businessenglishpod.com</link>
-	<description>Learn Business English Online free with Business English Lessons, English Video, Business English PDF, ESL Podcast, Business English Courses &#38; Business English App.</description>
-	<lastBuildDate>Mon, 13 Oct 2025 10:02:57 +0000</lastBuildDate>
+	<description>Learn Business English Online free with Business English Lessons, English Video, Business English PDF, ESL Podcast, Business English Courses &amp; Business English App.</description>
+	<lastBuildDate>Sun, 26 Oct 2025 19:06:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -28,39 +17,32 @@ xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/"
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
 	<itunes:summary>To access all 600+ Business English Podcasts visit our website at: www.businessenglishpod.com. &lt;br /&gt;
 Learn business English conversation and listening skills, vocabulary, idioms, and more with effective business English lessons on everything from meetings, presentations, negotiations to sales, job interviews and finance. Our Business English lessons are designed to help you understand the language that we use to communicate and the reasons why we use it. Our goal is to teach natural and effective English for business. Each of our Business English lessons feature: 1) a realistic dialog, 2) clear explanations of vocabulary, idioms, and functional language, and 3) a practice and review section. You will learn what the speakers are saying, why they are saying it, and other ways you can express the same ideas. PDF transcripts for each lesson are available to members of our website. Members can also access our online quizzes and lesson modules - head over to the website and take a free trial to preview the lesson resources: https://www.businessenglishpod.com</itunes:summary>
 	<itunes:author>www.BusinessEnglishPod.com</itunes:author>
-	<itunes:explicit>false</itunes:explicit>
-	<itunes:image href="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-Pod-iTunes-3000.jpeg" />
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-Pod-iTunes-3000.jpeg"/>
 	<itunes:type>episodic</itunes:type>
-	<itunes:owner>
-		<itunes:name>www.BusinessEnglishPod.com</itunes:name>
-		<itunes:email>businessenglishpod@mac.com</itunes:email>
-	</itunes:owner>
-	<copyright>Copyright &#xA9; Business English Pod Ltd. 2006 - 2025</copyright>
-	<podcast:license>Copyright &#xA9; Business English Pod Ltd. 2006 - 2025</podcast:license>
+	
+	<copyright>Copyright © Business English Pod Ltd. 2006 - 2025</copyright>
+	<podcast:license>Copyright © Business English Pod Ltd. 2006 - 2025</podcast:license>
 	<podcast:medium>podcast</podcast:medium>
 	<itunes:subtitle>Learn business English with your favorite business English lessons from Business English Pod!</itunes:subtitle>
-	<itunes:category text="Education" />
-	<itunes:category text="Education">
-		<itunes:category text="Language Learning" />
-	</itunes:category>
-	<itunes:category text="Education">
-		<itunes:category text="Courses" />
-	</itunes:category>
-	<podcast:podping usesPodping="true" />
+	
+	
+	
+	<podcast:podping usesPodping="true"/>
 	<podcast:guid>427960a3-e296-5590-927b-dbc37f9ac387</podcast:guid>
-	<rawvoice:subscribe feed="https://www.businessenglishpod.com/feed/podcast/" itunes="https://podcasts.apple.com/podcast/business-english-pod-learn/id206603090" spotify="https://open.spotify.com/show/4nCHpl7GXuMu41Jn4xDLtH"></rawvoice:subscribe>
-	<item>
-		<title>Skills 360 &#8211; Developing a Persuasive Approach (2)</title>
+	<rawvoice:subscribe feed="https://www.businessenglishpod.com/feed/podcast/" itunes="https://podcasts.apple.com/podcast/business-english-pod-learn/id206603090" spotify="https://open.spotify.com/show/4nCHpl7GXuMu41Jn4xDLtH"/>
+	<itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords><itunes:category text="Education"><itunes:category text="Language Courses"/></itunes:category><itunes:category text="Education"><itunes:category text="Training"/></itunes:category><itunes:owner><itunes:email>businessenglishpod@mac.com</itunes:email><itunes:name>www.BusinessEnglishPod.com</itunes:name></itunes:owner><item>
+		<title>Skills 360 – Developing a Persuasive Approach (2)</title>
 		<link>https://www.businessenglishpod.com/2025/10/12/skills-360-developing-a-persuasive-approach-2/</link>
 		<pubDate>Sun, 12 Oct 2025 18:43:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23745</guid>
 		<description>&lt;p&gt;Learn how to use a persuasive approach in business.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/10/12/skills-360-developing-a-persuasive-approach-2/&quot;&gt;Skills 360 – Developing a Persuasive Approach (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/10/12/skills-360-developing-a-persuasive-approach-2/"&gt;Skills 360 – Developing a Persuasive Approach (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
 <audio class="wp-audio-shortcode" id="audio-23745-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3?_=1" /><a href="https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3">https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3</a></audio>
 <p><a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.106POD/index.html" title="Skills 360 - Developing a Persuasive Approach 2" target="_blank" rel="noopener noreferrer"><img fetchpriority="high" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360.106-LESSON-Developing-Persuasive-Approach-2.jpg" alt="Skills 360 - Developing a Persuasive Approach in Business 2" width="1500" height="649" class="alignnone size-full wp-image-23746" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360.106-LESSON-Developing-Persuasive-Approach-2.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360.106-LESSON-Developing-Persuasive-Approach-2-300x130.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360.106-LESSON-Developing-Persuasive-Approach-2-600x260.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360.106-LESSON-Developing-Persuasive-Approach-2-768x332.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
@@ -73,22 +55,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/10/12/skills-3
 <span class="no_translate"><strong>Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.106POD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.106-QUIZ/story.html" target="_blank" rel="noopener noreferrer">Quiz &amp; Vocab</a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.106-Persuasion-2.pdf" target="_blank" rel="noopener noreferrer">PDF Transcript</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/10/12/skills-360-developing-a-persuasive-approach-2/">Skills 360 – Developing a Persuasive Approach (2)</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3" length="6656698" type="audio/mpeg" />
+		<enclosure length="6656698" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.106-Persuasion-2.mp3"/>
 		<itunes:subtitle>Learn how to use a persuasive approach in business.</itunes:subtitle>
 		<itunes:summary>Learn how to use a persuasive approach in business.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:31</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Developing a Persuasive Approach (1)</title>
+		<title>Skills 360 – Developing a Persuasive Approach (1)</title>
 		<link>https://www.businessenglishpod.com/2025/09/28/skills-360-developing-a-persuasive-approach-1/</link>
 		<pubDate>Sun, 28 Sep 2025 19:19:52 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23728</guid>
 		<description>&lt;p&gt;Learn how to develop a persuasive approach in business.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/09/28/skills-360-developing-a-persuasive-approach-1/&quot;&gt;Skills 360 – Developing a Persuasive Approach (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/09/28/skills-360-developing-a-persuasive-approach-1/"&gt;Skills 360 – Developing a Persuasive Approach (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23728-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3?_=2" /><a href="https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3">https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3</a></audio>
 <p><a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.105POD/index.html" title="Skills 360 - Developing a Persuasive Approach 1" target="_blank" rel="noopener noreferrer"><img decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360-LESSON-Developing-Persuasive-Approach-1.jpg" alt="Skills 360 - Developing a Persuasive Approach 1" width="1500" height="650" class="alignnone size-full wp-image-23730" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360-LESSON-Developing-Persuasive-Approach-1.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360-LESSON-Developing-Persuasive-Approach-1-300x130.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360-LESSON-Developing-Persuasive-Approach-1-600x260.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Skills-360-LESSON-Developing-Persuasive-Approach-1-768x333.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to the <a href="https://www.businessenglishpod.com/" title="Business English" rel="noopener" target="_blank">Business English</a> Skills 360 podcast as we look at how to develop a <a href="https://www.businessenglishpod.com/category/persuasion/" title="persuasion" rel="noopener" target="_blank">persuasive approach</a> in business.</p>
@@ -100,22 +82,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/09/28/skills-3
 <span class="no_translate"><strong>Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.105POD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.105-QUIZ/story.html" target="_blank" rel="noopener noreferrer">Quiz &amp; Vocab</a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.105-Persuasion-1.pdf" target="_blank" rel="noopener noreferrer">PDF Transcript</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/09/28/skills-360-developing-a-persuasive-approach-1/">Skills 360 – Developing a Persuasive Approach (1)</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3" length="7179983" type="audio/mpeg" />
+		<enclosure length="7179983" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.105-Persuasion-1.mp3"/>
 		<itunes:subtitle>Learn how to develop a persuasive approach in business.</itunes:subtitle>
 		<itunes:summary>Learn how to develop a persuasive approach in business.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:04</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 417 &#8211; English for Accounting: Discussing an Audit (2)</title>
+		<title>BEP 417 – English for Accounting: Discussing an Audit (2)</title>
 		<link>https://www.businessenglishpod.com/2025/09/14/bep-417-accounting-english-discussing-an-audit-2/</link>
 		<pubDate>Sun, 14 Sep 2025 17:02:01 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23700</guid>
 		<description>&lt;p&gt;Learn financial English collocations for discussing the findings of an audit.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/09/14/bep-417-accounting-english-discussing-an-audit-2/&quot;&gt;BEP 417 – English for Accounting: Discussing an Audit (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/09/14/bep-417-accounting-english-discussing-an-audit-2/"&gt;BEP 417 – English for Accounting: Discussing an Audit (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23700-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3?_=3" /><a href="https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3">https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3</a></audio>
 <p><a title="BEP 417 - Accounting English: Discussing an Audit 2" href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP417POD/index.html" target="_blank" rel="noopener noreferrer"><img decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-417-LESSON-Finacial-English-Audit-2.jpg" alt="BEP 417 LESSON - English for Accounting: Audits 2" width="1500" height="645" class="alignnone size-full wp-image-23703" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-417-LESSON-Finacial-English-Audit-2.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-417-LESSON-Finacial-English-Audit-2-300x129.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-417-LESSON-Finacial-English-Audit-2-600x258.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-417-LESSON-Finacial-English-Audit-2-768x330.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to Business English Pod for today’s lesson, the second part of our <a href="https://www.businessenglishpod.com/category/finance-accounting/" title="English for Accounting and Finance" rel="noopener" target="_blank">financial English</a>  series on discussing an audit.</p>
@@ -130,22 +112,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/09/14/bep-417-
 <span class="no_translate"><strong>Premium Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP417SN-Audit-2.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PDF Transcript</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP417-QUIZ/story.html" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">Quizzes</span></a> | <a href="/learningcenter/Premium2008/content23/BEP417PC.mp3" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PhraseCast</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP417POD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/09/14/bep-417-accounting-english-discussing-an-audit-2/">BEP 417 – English for Accounting: Discussing an Audit (2)</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3" length="25558767" type="audio/mpeg" />
+		<enclosure length="25558767" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-417-Audit-2.mp3"/>
 		<itunes:subtitle>Learn financial English collocations for discussing the findings of an audit.</itunes:subtitle>
 		<itunes:summary>Learn financial English collocations for discussing the findings of an audit.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>26:06</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 416 &#8211; English for Accounting: Discussing an Audit (1)</title>
+		<title>BEP 416 – English for Accounting: Discussing an Audit (1)</title>
 		<link>https://www.businessenglishpod.com/2025/08/31/bep-416-accounting-english-discussing-audit-1/</link>
 		<pubDate>Sun, 31 Aug 2025 16:05:16 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23677</guid>
 		<description>&lt;p&gt;Learn English collocations for discussing an audit with an accountant.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/08/31/bep-416-accounting-english-discussing-audit-1/&quot;&gt;BEP 416 – English for Accounting: Discussing an Audit (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/08/31/bep-416-accounting-english-discussing-audit-1/"&gt;BEP 416 – English for Accounting: Discussing an Audit (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23677-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3?_=4" /><a href="https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3">https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3</a></audio>
 <p><a title="BEP 416 - Accounting English: Discussing an Audit 1" href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP416POD/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-416-LESSON-Financial-English-Audits-1.jpg" alt="BEP 416 LESSON - English for Accounting: Discussing an Audit 1" width="1500" height="648" class="alignnone size-full wp-image-23678" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-416-LESSON-Financial-English-Audits-1.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-416-LESSON-Financial-English-Audits-1-300x130.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-416-LESSON-Financial-English-Audits-1-600x259.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-416-LESSON-Financial-English-Audits-1-768x332.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to Business English Pod for today’s lesson, the first in a two-part series on <a href="https://www.businessenglishpod.com/category/finance-accounting/" title="English for Accounting and Finance" rel="noopener" target="_blank">financial English</a> for discussing an audit.</p>
@@ -160,22 +142,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/08/31/bep-416-
 <span class="no_translate"><strong>Premium Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP416SN-Audit-1.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PDF Transcript</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP416-QUIZ/story.html" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">Quizzes</span></a> | <a href="/learningcenter/Premium2008/content23/BEP416PC.mp3" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PhraseCast</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP416POD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/08/31/bep-416-accounting-english-discussing-audit-1/">BEP 416 – English for Accounting: Discussing an Audit (1)</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3" length="23257901" type="audio/mpeg" />
+		<enclosure length="23257901" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-416-Audit-1.mp3"/>
 		<itunes:subtitle>Learn English collocations for discussing an audit with an accountant.</itunes:subtitle>
 		<itunes:summary>Learn English collocations for discussing an audit with an accountant.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:42</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 60 &#8211; Tariffs: Rewiring Global Trade</title>
+		<title>Business English News 60 – Tariffs: Rewiring Global Trade</title>
 		<link>https://www.businessenglishpod.com/2025/08/17/business-english-news-60-tariffs-rewiring-global-trade/</link>
 		<pubDate>Sun, 17 Aug 2025 15:55:28 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23656</guid>
 		<description>&lt;p&gt;Learn business English vocabulary in this lesson on the effects of tariffs on global trade.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/08/17/business-english-news-60-tariffs-rewiring-global-trade/&quot;&gt;Business English News 60 – Tariffs: Rewiring Global Trade&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/08/17/business-english-news-60-tariffs-rewiring-global-trade/"&gt;Business English News 60 – Tariffs: Rewiring Global Trade&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23656-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3?_=5" /><a href="https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3">https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3</a></audio>
 <p><a title="Business English News 60 - Tariffs: Rewiring Global Trade" href="https://businessenglishpod.com/quiz/BEN60POD/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-News-60-LESSON-Tariffs-Global-Trade.jpg" alt="Business English News 60 - Tariffs" width="1500" height="604" class="alignnone size-full wp-image-23657" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-News-60-LESSON-Tariffs-Global-Trade.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-News-60-LESSON-Tariffs-Global-Trade-300x121.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-News-60-LESSON-Tariffs-Global-Trade-600x242.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-News-60-LESSON-Tariffs-Global-Trade-768x309.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>In this <a href="https://www.businessenglishpod.com/" title="Business English" rel="noopener" target="_blank">Business English</a> News lesson on the effects of tariffs on global trade, we look at business English vocabulary related to <a href="https://www.businessenglishpod.com/category/it-and-computers/" title="English for IT" rel="noopener" target="_blank">the global supply chain and economics</a>.</p>
@@ -185,22 +167,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/08/17/business
 <span class="no_translate"><strong>Free Resources: <a href="https://www.businessenglishpod.com/quiz/BEN60SN-Tariffs.pdf" target="_blank" rel="noopener noreferrer">PDF Transcript</a> | <a href="https://www.businessenglishpod.com/quiz/BEN60-QUIZ/story.html" target="_blank" rel="noopener noreferrer">Quizzes</a> | <a href="https://www.businessenglishpod.com/quiz/BEN60POD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/08/17/business-english-news-60-tariffs-rewiring-global-trade/">Business English News 60 – Tariffs: Rewiring Global Trade</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3" length="5230928" type="audio/mpeg" />
+		<enclosure length="5230928" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN60-Tariffs.mp3"/>
 		<itunes:subtitle>Learn business English vocabulary in this lesson on the effects of tariffs on global trade.</itunes:subtitle>
 		<itunes:summary>Learn business English vocabulary in this lesson on the effects of tariffs on global trade.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>4:55</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 45c &#8211; Socializing: Keeping a Conversation Going</title>
+		<title>BEP 45c – Socializing: Keeping a Conversation Going</title>
 		<link>https://www.businessenglishpod.com/2025/07/27/bep-45c-socializing-keeping-a-conversation-going/</link>
 		<pubDate>Sun, 27 Jul 2025 19:12:02 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23620</guid>
 		<description>&lt;p&gt;Learn how to keep a conversation in English going while socializing at work.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/07/27/bep-45c-socializing-keeping-a-conversation-going/&quot;&gt;BEP 45c – Socializing: Keeping a Conversation Going&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/07/27/bep-45c-socializing-keeping-a-conversation-going/"&gt;BEP 45c – Socializing: Keeping a Conversation Going&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23620-6" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3?_=6" /><a href="https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3">https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3</a></audio>
 <p><a title="BEP 45c - Keeping a Conversation Going" href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP045cPOD/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-45c-LESSON-Maintaining-Conversation.jpg" alt="BEP 45c - English for Socializing: Keeping a Conversation Going" width="1500" height="641" class="alignnone size-full wp-image-23591" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-45c-LESSON-Maintaining-Conversation.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-45c-LESSON-Maintaining-Conversation-300x128.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-45c-LESSON-Maintaining-Conversation-600x256.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-45c-LESSON-Maintaining-Conversation-768x328.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to Business English Pod for today’s lesson on  how to keep a conversation going while <a href="https://www.businessenglishpod.com/category/socializing/" title="socializing" rel="noopener" target="_blank">socializing at work</a>.</p>
@@ -215,22 +197,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/07/27/bep-45c-
 <span class="no_translate"><strong>Premium Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP045cSN-Maintaining-Conversation.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PDF Transcript</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP045c-QUIZ/story.html" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">Quizzes</span></a> | <a href="/learningcenter/Premium2008/content23/BEP045cPC.mp3" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PhraseCast</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP045cPOD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/07/27/bep-45c-socializing-keeping-a-conversation-going/">BEP 45c – Socializing: Keeping a Conversation Going</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3" length="14191130" type="audio/mpeg" />
+		<enclosure length="14191130" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP045c-Maintaining-Conversation.mp3"/>
 		<itunes:subtitle>Learn how to keep a conversation in English going while socializing at work.</itunes:subtitle>
 		<itunes:summary>Learn how to keep a conversation in English going while socializing at work.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>14:15</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 44c &#8211; Socializing: Starting a Conversation in English</title>
+		<title>BEP 44c – Socializing: Starting a Conversation in English</title>
 		<link>https://www.businessenglishpod.com/2025/07/06/bep-44c-socializing-starting-conversation-english/</link>
 		<pubDate>Sun, 06 Jul 2025 17:17:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23589</guid>
 		<description>&lt;p&gt;Learn how to start a conversation in English.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/07/06/bep-44c-socializing-starting-conversation-english/&quot;&gt;BEP 44c – Socializing: Starting a Conversation in English&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/07/06/bep-44c-socializing-starting-conversation-english/"&gt;BEP 44c – Socializing: Starting a Conversation in English&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23589-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3?_=7" /><a href="https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3">https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3</a></audio>
 <p><a title="BEP 44c - Starting a Conversation in English" href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP044cPOD/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-44c-LESSON-Starting-Conversation.jpg" alt="BEP 44c - English for Socializing: Starting a Conversation" width="1500" height="650" class="alignnone size-full wp-image-23593" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-44c-LESSON-Starting-Conversation.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-44c-LESSON-Starting-Conversation-300x130.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-44c-LESSON-Starting-Conversation-600x260.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-44c-LESSON-Starting-Conversation-768x333.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to Business English Pod for today’s lesson on how to start a conversation while <a href="https://www.businessenglishpod.com/category/socializing/" title="English Conversation" rel="noopener" target="_blank">socializing</a> at work.</p>
@@ -245,22 +227,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/07/06/bep-44c-
 <span class="no_translate"><strong>Premium Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP044cSN-Starting-Conversation.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PDF Transcript</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP044c-QUIZ/story.html" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">Quizzes</span></a> | <a href="/learningcenter/Premium2008/content23/BEP044cPC.mp3" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PhraseCast</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP044cPOD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/07/06/bep-44c-socializing-starting-conversation-english/">BEP 44c – Socializing: Starting a Conversation in English</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3" length="16605676" type="audio/mpeg" />
+		<enclosure length="16605676" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP044c-Starting-Conversation.mp3"/>
 		<itunes:subtitle>Learn how to start a conversation in English.</itunes:subtitle>
 		<itunes:summary>Learn how to start a conversation in English.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>16:46</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 43c &#8211; Meeting English: Managing the Discussion</title>
+		<title>BEP 43c – Meeting English: Managing the Discussion</title>
 		<link>https://www.businessenglishpod.com/2025/06/22/bep-43c-meeting-english-managing-discussion/</link>
 		<pubDate>Sun, 22 Jun 2025 22:41:13 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23556</guid>
 		<description>&lt;p&gt;Welcome back to Business English Pod for today’s lesson on how to manage the discussion during a meeting in English. Bad meetings can waste time and leave everyone confused. But a well-run meeting can help create new ideas, solve problems, and move a project forward. Running a great meeting is about more than just following […]&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/06/22/bep-43c-meeting-english-managing-discussion/&quot;&gt;BEP 43c – Meeting English: Managing the Discussion&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/06/22/bep-43c-meeting-english-managing-discussion/"&gt;BEP 43c – Meeting English: Managing the Discussion&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23556-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3?_=8" /><a href="https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3">https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3</a></audio>
 <p><a title="BEP 43c - Meeting English: Managing a Meeting" href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP043cPOD/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-043c-LESSON-Managing-Meeting.jpg" alt="BEP 43c - Meeting English: Managing a Meeting" width="1500" height="643" class="alignnone size-full wp-image-23557" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-043c-LESSON-Managing-Meeting.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-043c-LESSON-Managing-Meeting-300x129.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-043c-LESSON-Managing-Meeting-600x257.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-043c-LESSON-Managing-Meeting-768x329.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to Business English Pod for today’s lesson on how to manage the discussion during a <a href="https://www.businessenglishpod.com/category/meetings/" title="meeting English" rel="noopener" target="_blank">meeting in English</a>.</p>
@@ -275,22 +257,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/06/22/bep-43c-
 <span class="no_translate"><strong>Premium Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP043cSN-Meetings-Managing.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PDF Transcript</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP043c-QUIZ/story.html" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">Quizzes</span></a> | <a href="/learningcenter/Premium2008/content23/BEP043cPC.mp3" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PhraseCast</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP043cPOD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/06/22/bep-43c-meeting-english-managing-discussion/">BEP 43c – Meeting English: Managing the Discussion</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3" length="17954427" type="audio/mpeg" />
+		<enclosure length="17954427" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP043c-Meetings-Managing.mp3"/>
 		<itunes:subtitle>Welcome back to Business English Pod for today’s lesson on how to manage the discussion during a meeting in English. Bad meetings can waste time and leave everyone confused. But a well-run meeting can help create new ideas, solve problems,</itunes:subtitle>
 		<itunes:summary>Welcome back to Business English Pod for today’s lesson on how to manage the discussion during a meeting in English. Bad meetings can waste time and leave everyone confused. But a well-run meeting can help create new ideas, solve problems, and move a project forward. Running a great meeting is about more than just following […]</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>18:11</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 42c &#8211; Meeting in English: Starting a Meeting</title>
+		<title>BEP 42c – Meeting in English: Starting a Meeting</title>
 		<link>https://www.businessenglishpod.com/2025/06/08/bep-42c-meeting-in-english-starting/</link>
 		<pubDate>Sun, 08 Jun 2025 19:18:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23470</guid>
 		<description>&lt;p&gt;Learn how to start a meeting in English.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/06/08/bep-42c-meeting-in-english-starting/&quot;&gt;BEP 42c – Meeting in English: Starting a Meeting&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/06/08/bep-42c-meeting-in-english-starting/"&gt;BEP 42c – Meeting in English: Starting a Meeting&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23470-9" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3?_=9" /><a href="https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3">https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3</a></audio>
 <p><a title="BEP 42c - Meeting English: Starting a Meeting" href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP042cPOD/index.html" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-042c-LESSON-Meeting-English-Starting.jpg" alt="BEP 42c - Meeting in English: Starting a Meeting" width="1500" height="654" class="alignnone size-full wp-image-23472" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-042c-LESSON-Meeting-English-Starting.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-042c-LESSON-Meeting-English-Starting-300x131.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-042c-LESSON-Meeting-English-Starting-600x262.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/BEP-042c-LESSON-Meeting-English-Starting-768x335.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to Business English Pod for today’s lesson on how to start a <a href="https://www.businessenglishpod.com/category/meetings/" title="meeting English" rel="noopener" target="_blank">meeting in English</a>.</p>
@@ -305,22 +287,22 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/06/08/bep-42c-
 <span class="no_translate"><strong>Premium Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP042cSN-Meetings-Starting.pdf" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PDF Transcript</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP042c-QUIZ/story.html" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">Quizzes</span></a> | <a href="/learningcenter/Premium2008/content23/BEP042cPC.mp3" target="_blank" rel="noopener noreferrer"><span style="color: #800000;">PhraseCast</span></a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/BEP042cPOD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/06/08/bep-42c-meeting-in-english-starting/">BEP 42c – Meeting in English: Starting a Meeting</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3" length="15161619" type="audio/mpeg" />
+		<enclosure length="15161619" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP042c-Meetings-Starting.mp3"/>
 		<itunes:subtitle>Learn how to start a meeting in English.</itunes:subtitle>
 		<itunes:summary>Learn how to start a meeting in English.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>15:16</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Fostering a Culture of Collaboration (2)</title>
+		<title>Skills 360 – Fostering a Culture of Collaboration (2)</title>
 		<link>https://www.businessenglishpod.com/2025/05/25/skills-360-fostering-a-culture-of-collaboration-2/</link>
 		<pubDate>Sun, 25 May 2025 16:53:36 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23454</guid>
 		<description>&lt;p&gt;Learn how to build a culture of collaboration in the workplace.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/05/25/skills-360-fostering-a-culture-of-collaboration-2/&quot;&gt;Skills 360 – Fostering a Culture of Collaboration (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+The post &lt;a href="https://www.businessenglishpod.com/2025/05/25/skills-360-fostering-a-culture-of-collaboration-2/"&gt;Skills 360 – Fostering a Culture of Collaboration (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
 		<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-23454-10" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3?_=10" /><a href="https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3">https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3</a></audio>
 <p><a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.104POD/index.html" title="Skills 360 - Fostering Collaboration 2" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" src="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-360.104-LESSON-Collaboration-2.jpg" alt="Skills 360 LESSON - Collaboration 2" width="1500" height="649" class="alignnone size-full wp-image-23427" srcset="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-360.104-LESSON-Collaboration-2.jpg 1500w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-360.104-LESSON-Collaboration-2-300x130.jpg 300w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-360.104-LESSON-Collaboration-2-600x260.jpg 600w, https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-360.104-LESSON-Collaboration-2-768x332.jpg 768w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
 <p>Welcome back to the <a href="https://www.businessenglishpod.com/" title="Business English" rel="noopener" target="_blank">Business English</a> Skills 360 podcast as we look at how to build a collaborative workplace culture.</p>
@@ -333,199 +315,199 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/05/25/skills-3
 <span class="no_translate"><strong>Members: <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.104POD/index.html" target="_blank" rel="noopener noreferrer">Lesson Module</a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.104-QUIZ/story.html" target="_blank" rel="noopener noreferrer">Quiz &amp; Vocab</a> | <a href="https://www.businessenglishpod.com/learningcenter/Premium2008/content23/360.104-Collaboration-2.pdf" target="_blank" rel="noopener noreferrer">PDF Transcript</a></strong></span></p>
 <p><span class="no_translate"><strong>Download: <a href="https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3" target="_blank" rel="noopener noreferrer">Podcast MP3</a></strong></span>>>>
 The post <a href="https://www.businessenglishpod.com/2025/05/25/skills-360-fostering-a-culture-of-collaboration-2/">Skills 360 – Fostering a Culture of Collaboration (2)</a> first appeared on <a href="https://www.businessenglishpod.com">Business English Pod :: Learn Business English Online</a>.]]></content:encoded>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3" length="7203372" type="audio/mpeg" />
+		<enclosure length="7203372" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.104-Collaboration-2.mp3"/>
 		<itunes:subtitle>Learn how to build a culture of collaboration in the workplace.</itunes:subtitle>
 		<itunes:summary>Learn how to build a culture of collaboration in the workplace.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:05</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Fostering a Culture of Collaboration (1)</title>
+		<title>Skills 360 – Fostering a Culture of Collaboration (1)</title>
 		<link>https://www.businessenglishpod.com/2025/05/11/skills-360-fostering-collaboration-1/</link>
 		<pubDate>Sun, 11 May 2025 15:44:30 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23423</guid>
 		<description>&lt;p&gt;Learn how to foster a culture of collaboration in the workplace.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/05/11/skills-360-fostering-collaboration-1/&quot;&gt;Skills 360 – Fostering a Culture of Collaboration (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.103-Collaboration-1.mp3" length="8517435" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/05/11/skills-360-fostering-collaboration-1/"&gt;Skills 360 – Fostering a Culture of Collaboration (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="8517435" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.103-Collaboration-1.mp3"/>
 		<itunes:subtitle>Learn how to foster a culture of collaboration in the workplace.</itunes:subtitle>
 		<itunes:summary>Learn how to foster a culture of collaboration in the workplace.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:46</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 415 &#8211; Purchasing 6: Managing Purchase Orders</title>
+		<title>BEP 415 – Purchasing 6: Managing Purchase Orders</title>
 		<link>https://www.businessenglishpod.com/2025/04/27/bep-415-purchasing-6-managing-purchase-orders/</link>
 		<pubDate>Sun, 27 Apr 2025 18:33:20 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23389</guid>
 		<description>&lt;p&gt;Learn how to manage contracts and purchase orders as part of the purchasing process.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/04/27/bep-415-purchasing-6-managing-purchase-orders/&quot;&gt;BEP 415 – Purchasing 6: Managing Purchase Orders&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-415-Purchasing-6.mp3" length="22855227" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/04/27/bep-415-purchasing-6-managing-purchase-orders/"&gt;BEP 415 – Purchasing 6: Managing Purchase Orders&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="22855227" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-415-Purchasing-6.mp3"/>
 		<itunes:subtitle>Learn how to manage contracts and purchase orders as part of the purchasing process.</itunes:subtitle>
 		<itunes:summary>Learn how to manage contracts and purchase orders as part of the purchasing process.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:17</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 414 &#8211; Purchasing 5: Evaluating Vendor Proposals</title>
+		<title>BEP 414 – Purchasing 5: Evaluating Vendor Proposals</title>
 		<link>https://www.businessenglishpod.com/2025/04/13/bep-414-purchasing-5-evaluating-vendor-proposals/</link>
 		<pubDate>Sun, 13 Apr 2025 18:29:02 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23315</guid>
 		<description>&lt;p&gt;Learn English for purchasing in this lesson that looks at evaluating proposals from vendors.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/04/13/bep-414-purchasing-5-evaluating-vendor-proposals/&quot;&gt;BEP 414 – Purchasing 5: Evaluating Vendor Proposals&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-414-Purchasing-5.mp3" length="21120888" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/04/13/bep-414-purchasing-5-evaluating-vendor-proposals/"&gt;BEP 414 – Purchasing 5: Evaluating Vendor Proposals&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21120888" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-414-Purchasing-5.mp3"/>
 		<itunes:subtitle>Learn English for purchasing in this lesson that looks at evaluating proposals from vendors.</itunes:subtitle>
 		<itunes:summary>Learn English for purchasing in this lesson that looks at evaluating proposals from vendors.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>21:28</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 41c &#8211; Interview English: First-Round Job Interviews (2)</title>
+		<title>BEP 41c – Interview English: First-Round Job Interviews (2)</title>
 		<link>https://www.businessenglishpod.com/2025/03/30/bep-41c-interview-english-first-round-job-interviews-2/</link>
 		<pubDate>Sun, 30 Mar 2025 17:25:26 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23299</guid>
 		<description>&lt;p&gt;Learn key skills for first-round job interviews.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/03/30/bep-41c-interview-english-first-round-job-interviews-2/&quot;&gt;BEP 41c – Interview English: First-Round Job Interviews (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP041c-First-Round-Interview-2.mp3" length="19662030" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/03/30/bep-41c-interview-english-first-round-job-interviews-2/"&gt;BEP 41c – Interview English: First-Round Job Interviews (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="19662030" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP041c-First-Round-Interview-2.mp3"/>
 		<itunes:subtitle>Learn key skills for first-round job interviews.</itunes:subtitle>
 		<itunes:summary>Learn key skills for first-round job interviews.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>19:57</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 40c &#8211; Interview English: First-Round Job Interviews (1)</title>
+		<title>BEP 40c – Interview English: First-Round Job Interviews (1)</title>
 		<link>https://www.businessenglishpod.com/2025/03/16/bep-40c-interview-english-first-round-job-interview-1/</link>
 		<pubDate>Sun, 16 Mar 2025 16:55:12 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23273</guid>
 		<description>&lt;p&gt;Learn Interview English skills for first-round job interviews.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/03/16/bep-40c-interview-english-first-round-job-interview-1/&quot;&gt;BEP 40c – Interview English: First-Round Job Interviews (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP040c-First-Round-Interview-1.mp3" length="19074149" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/03/16/bep-40c-interview-english-first-round-job-interview-1/"&gt;BEP 40c – Interview English: First-Round Job Interviews (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="19074149" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP040c-First-Round-Interview-1.mp3"/>
 		<itunes:subtitle>Learn Interview English skills for first-round job interviews.</itunes:subtitle>
 		<itunes:summary>Learn Interview English skills for first-round job interviews.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>19:21</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 59 &#8211; DeepSeek</title>
+		<title>Business English News 59 – DeepSeek</title>
 		<link>https://www.businessenglishpod.com/2025/03/02/business-english-news-59-deepseek/</link>
 		<pubDate>Sun, 02 Mar 2025 19:03:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23211</guid>
 		<description>&lt;p&gt;Learn business English vocabulary related to technology in this lesson on DeepSeek.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/03/02/business-english-news-59-deepseek/&quot;&gt;Business English News 59 – DeepSeek&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN59-DeepSeek.mp3" length="7021444" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/03/02/business-english-news-59-deepseek/"&gt;Business English News 59 – DeepSeek&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7021444" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN59-DeepSeek.mp3"/>
 		<itunes:subtitle>Learn business English vocabulary related to technology in this lesson on DeepSeek.</itunes:subtitle>
 		<itunes:summary>Learn business English vocabulary related to technology in this lesson on DeepSeek.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:47</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 413 &#8211; Business English Idioms about Technology (2)</title>
+		<title>BEP 413 – Business English Idioms about Technology (2)</title>
 		<link>https://www.businessenglishpod.com/2025/02/16/bep-413-business-english-idioms-about-technology-2/</link>
 		<pubDate>Sun, 16 Feb 2025 18:44:42 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23171</guid>
 		<description>&lt;p&gt;Learn English idioms related to technology.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/02/16/bep-413-business-english-idioms-about-technology-2/&quot;&gt;BEP 413 – Business English Idioms about Technology (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-413-Technology-Idioms-2.mp3" length="23461028" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/02/16/bep-413-business-english-idioms-about-technology-2/"&gt;BEP 413 – Business English Idioms about Technology (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="23461028" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-413-Technology-Idioms-2.mp3"/>
 		<itunes:subtitle>Learn English idioms related to technology.</itunes:subtitle>
 		<itunes:summary>Learn English idioms related to technology.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:55</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 412 &#8211; Business English Idioms about Technology (1)</title>
+		<title>BEP 412 – Business English Idioms about Technology (1)</title>
 		<link>https://www.businessenglishpod.com/2025/02/02/bep-412-business-english-idioms-about-technology-1/</link>
 		<pubDate>Sun, 02 Feb 2025 17:35:02 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23125</guid>
 		<description>&lt;p&gt;Learn business English idioms related to technology and IT.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/02/02/bep-412-business-english-idioms-about-technology-1/&quot;&gt;BEP 412 – Business English Idioms about Technology (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-412-Technology-Idioms-1.mp3" length="23407530" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/02/02/bep-412-business-english-idioms-about-technology-1/"&gt;BEP 412 – Business English Idioms about Technology (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="23407530" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-412-Technology-Idioms-1.mp3"/>
 		<itunes:subtitle>Learn business English idioms related to technology and IT.</itunes:subtitle>
 		<itunes:summary>Learn business English idioms related to technology and IT.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:51</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Advanced Interview Skills for Effective Hiring (2)</title>
+		<title>Skills 360 – Advanced Interview Skills for Effective Hiring (2)</title>
 		<link>https://www.businessenglishpod.com/2025/01/19/skills-360-advanced-interview-skills-for-effective-hiring-2/</link>
 		<pubDate>Sun, 19 Jan 2025 17:09:30 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23088</guid>
 		<description>&lt;p&gt;Learn advanced interview skills for hiring the best people.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/01/19/skills-360-advanced-interview-skills-for-effective-hiring-2/&quot;&gt;Skills 360 – Advanced Interview Skills for Effective Hiring (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.102-Interview-Skills-2.mp3" length="6614054" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/01/19/skills-360-advanced-interview-skills-for-effective-hiring-2/"&gt;Skills 360 – Advanced Interview Skills for Effective Hiring (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6614054" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.102-Interview-Skills-2.mp3"/>
 		<itunes:subtitle>Learn advanced interview skills for hiring the best people.</itunes:subtitle>
 		<itunes:summary>Learn advanced interview skills for hiring the best people.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:28</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Advanced Interview Skills for Effective Hiring (1)</title>
+		<title>Skills 360 – Advanced Interview Skills for Effective Hiring (1)</title>
 		<link>https://www.businessenglishpod.com/2025/01/05/skills-360-advanced-interview-skills-for-effective-hiring-1/</link>
 		<pubDate>Sun, 05 Jan 2025 16:55:42 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=23018</guid>
 		<description>&lt;p&gt;Learn advanced interview skills for hiring the right people.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2025/01/05/skills-360-advanced-interview-skills-for-effective-hiring-1/&quot;&gt;Skills 360 – Advanced Interview Skills for Effective Hiring (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.101-Interview-Skills-1.mp3" length="7235985" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2025/01/05/skills-360-advanced-interview-skills-for-effective-hiring-1/"&gt;Skills 360 – Advanced Interview Skills for Effective Hiring (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7235985" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.101-Interview-Skills-1.mp3"/>
 		<itunes:subtitle>Learn advanced interview skills for hiring the right people.</itunes:subtitle>
 		<itunes:summary>Learn advanced interview skills for hiring the right people.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:07</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 39c &#8211; English for Project Management: Reporting on Progress</title>
+		<title>BEP 39c – English for Project Management: Reporting on Progress</title>
 		<link>https://www.businessenglishpod.com/2024/12/08/bep-39c-english-for-project-management-reporting-on-progress/</link>
 		<pubDate>Sun, 08 Dec 2024 16:44:04 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22953</guid>
 		<description>&lt;p&gt;Learn project management English in this lesson on reporting on progress of a project.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/12/08/bep-39c-english-for-project-management-reporting-on-progress/&quot;&gt;BEP 39c – English for Project Management: Reporting on Progress&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP039c-Reporting-Progress.mp3" length="14950961" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/12/08/bep-39c-english-for-project-management-reporting-on-progress/"&gt;BEP 39c – English for Project Management: Reporting on Progress&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="14950961" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP039c-Reporting-Progress.mp3"/>
 		<itunes:subtitle>Learn project management English in this lesson on reporting on progress of a project.</itunes:subtitle>
 		<itunes:summary>Learn project management English in this lesson on reporting on progress of a project.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>15:03</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 411 &#8211; Mergers: Discussing an Integration Plan (2)</title>
+		<title>BEP 411 – Mergers: Discussing an Integration Plan (2)</title>
 		<link>https://www.businessenglishpod.com/2024/11/24/bep-411-mergers-discussing-an-integration-plan-2/</link>
 		<pubDate>Sun, 24 Nov 2024 22:24:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22932</guid>
 		<description>&lt;p&gt;Learn how discuss different aspects of integrating the operations of two companies.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/11/24/bep-411-mergers-discussing-an-integration-plan-2/&quot;&gt;BEP 411 – Mergers: Discussing an Integration Plan (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP411-Integration-2.mp3" length="21851712" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/11/24/bep-411-mergers-discussing-an-integration-plan-2/"&gt;BEP 411 – Mergers: Discussing an Integration Plan (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21851712" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP411-Integration-2.mp3"/>
 		<itunes:subtitle>Learn how discuss different aspects of integrating the operations of two companies.</itunes:subtitle>
 		<itunes:summary>Learn how discuss different aspects of integrating the operations of two companies.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -533,16 +515,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/11/24/bep-411-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>22:14</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 410 &#8211; Mergers: Discussing an Integration Plan (1)</title>
+		<title>BEP 410 – Mergers: Discussing an Integration Plan (1)</title>
 		<link>https://www.businessenglishpod.com/2024/11/10/bep-410-mergers-discussing-an-integration-plan-1/</link>
 		<pubDate>Sun, 10 Nov 2024 17:40:05 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22901</guid>
 		<description>&lt;p&gt;Learn how to discuss the integration of two companies during a merger.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/11/10/bep-410-mergers-discussing-an-integration-plan-1/&quot;&gt;BEP 410 – Mergers: Discussing an Integration Plan (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP410-Integration-1.mp3" length="21049838" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/11/10/bep-410-mergers-discussing-an-integration-plan-1/"&gt;BEP 410 – Mergers: Discussing an Integration Plan (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21049838" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP410-Integration-1.mp3"/>
 		<itunes:subtitle>Learn how to discuss the integration of two companies during a merger.</itunes:subtitle>
 		<itunes:summary>Learn how to discuss the integration of two companies during a merger.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -550,32 +532,32 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/11/10/bep-410-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>21:24</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 58 &#8211; HR: Hiring Trends</title>
+		<title>Business English News 58 – HR: Hiring Trends</title>
 		<link>https://www.businessenglishpod.com/2024/10/20/ben-58-hr-hiring-trends/</link>
 		<pubDate>Sun, 20 Oct 2024 21:45:43 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22799</guid>
 		<description>&lt;p&gt;Learn vocabulary related to HR and recent trends in hiring practices.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/10/20/ben-58-hr-hiring-trends/&quot;&gt;Business English News 58 – HR: Hiring Trends&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN58-Hiring-Trends.mp3" length="6141645" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/10/20/ben-58-hr-hiring-trends/"&gt;Business English News 58 – HR: Hiring Trends&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6141645" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN58-Hiring-Trends.mp3"/>
 		<itunes:subtitle>Learn vocabulary related to HR and recent trends in hiring practices.</itunes:subtitle>
 		<itunes:summary>Learn vocabulary related to HR and recent trends in hiring practices.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>5:52</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 37c &#8211; English for Presentations: Questions and Answers (2)</title>
+		<title>BEP 37c – English for Presentations: Questions and Answers (2)</title>
 		<link>https://www.businessenglishpod.com/2024/10/06/bep-37c-english-for-presentations-questions-and-answers-2/</link>
 		<pubDate>Sun, 06 Oct 2024 16:41:31 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22726</guid>
 		<description>&lt;p&gt;Learn English for presentations and how to answer questions at the end of a presentation.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/10/06/bep-37c-english-for-presentations-questions-and-answers-2/&quot;&gt;BEP 37c – English for Presentations: Questions and Answers (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP037c-Presentations-QA-2.mp3" length="16787493" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/10/06/bep-37c-english-for-presentations-questions-and-answers-2/"&gt;BEP 37c – English for Presentations: Questions and Answers (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="16787493" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP037c-Presentations-QA-2.mp3"/>
 		<itunes:subtitle>Learn English for presentations and how to answer questions at the end of a presentation.</itunes:subtitle>
 		<itunes:summary>Learn English for presentations and how to answer questions at the end of a presentation.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -583,32 +565,32 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/10/06/bep-37c-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>16:58</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 36c &#8211; English for Presentations: Questions and Answers (1)</title>
+		<title>BEP 36c – English for Presentations: Questions and Answers (1)</title>
 		<link>https://www.businessenglishpod.com/2024/09/22/bep-36c-english-for-presentations-questions-and-answers-1/</link>
 		<pubDate>Sun, 22 Sep 2024 18:53:27 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22645</guid>
 		<description>&lt;p&gt;Learn how to deal with the question and answer session at the end of a presentation.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/09/22/bep-36c-english-for-presentations-questions-and-answers-1/&quot;&gt;BEP 36c – English for Presentations: Questions and Answers (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP036c-Presentations-QA-1.mp3" length="18233214" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/09/22/bep-36c-english-for-presentations-questions-and-answers-1/"&gt;BEP 36c – English for Presentations: Questions and Answers (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="18233214" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP036c-Presentations-QA-1.mp3"/>
 		<itunes:subtitle>Learn how to deal with the question and answer session at the end of a presentation.</itunes:subtitle>
 		<itunes:summary>Learn how to deal with the question and answer session at the end of a presentation.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>18:28</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Problem-Solving 2: The Problem-Solving Process</title>
+		<title>Skills 360 – Problem-Solving 2: The Problem-Solving Process</title>
 		<link>https://www.businessenglishpod.com/2024/09/08/skills-360-problem-solving-2-the-problem-solving-process/</link>
 		<pubDate>Sun, 08 Sep 2024 15:51:49 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22586</guid>
 		<description>&lt;p&gt;Learn how to solve problems using a 5-step approach.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/09/08/skills-360-problem-solving-2-the-problem-solving-process/&quot;&gt;Skills 360 – Problem-Solving 2: The Problem-Solving Process&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.100-Problem-Solving-2.mp3" length="7110586" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/09/08/skills-360-problem-solving-2-the-problem-solving-process/"&gt;Skills 360 – Problem-Solving 2: The Problem-Solving Process&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7110586" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.100-Problem-Solving-2.mp3"/>
 		<itunes:subtitle>Learn how to solve problems using a 5-step approach.</itunes:subtitle>
 		<itunes:summary>Learn how to solve problems using a 5-step approach.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -616,16 +598,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/09/08/skills-3
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:59</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Problem-Solving 1: Developing the Right Skills</title>
+		<title>Skills 360 – Problem-Solving 1: Developing the Right Skills</title>
 		<link>https://www.businessenglishpod.com/2024/08/25/skills-360-problem-solving-1-developing-the-right-skills/</link>
 		<pubDate>Sun, 25 Aug 2024 16:23:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22539</guid>
 		<description>&lt;p&gt;Learn essential problem-solving skills.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/08/25/skills-360-problem-solving-1-developing-the-right-skills/&quot;&gt;Skills 360 – Problem-Solving 1: Developing the Right Skills&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.99-Problem-Solving-1.mp3" length="7046637" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/08/25/skills-360-problem-solving-1-developing-the-right-skills/"&gt;Skills 360 – Problem-Solving 1: Developing the Right Skills&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7046637" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.99-Problem-Solving-1.mp3"/>
 		<itunes:subtitle>Learn essential problem-solving skills.</itunes:subtitle>
 		<itunes:summary>Learn essential problem-solving skills.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -633,32 +615,32 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/08/25/skills-3
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:55</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEN 57 &#8211; Robots: Back to the Future</title>
+		<title>BEN 57 – Robots: Back to the Future</title>
 		<link>https://www.businessenglishpod.com/2024/07/28/ben-57-robots-back-to-the-future/</link>
 		<pubDate>Sun, 28 Jul 2024 17:46:51 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22467</guid>
 		<description>&lt;p&gt;Learn business English vocabulary for discussing robotics and tech.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/07/28/ben-57-robots-back-to-the-future/&quot;&gt;BEN 57 – Robots: Back to the Future&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN57-Robots.mp3" length="6759800" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/07/28/ben-57-robots-back-to-the-future/"&gt;BEN 57 – Robots: Back to the Future&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6759800" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN57-Robots.mp3"/>
 		<itunes:subtitle>Learn business English vocabulary for discussing robotics and tech.</itunes:subtitle>
 		<itunes:summary>Learn business English vocabulary for discussing robotics and tech.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:31</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 409 &#8211; Quality Control 2: Customer Service</title>
+		<title>BEP 409 – Quality Control 2: Customer Service</title>
 		<link>https://www.businessenglishpod.com/2024/07/07/bep-409-quality-control-2-customer-service/</link>
 		<pubDate>Sun, 07 Jul 2024 20:35:25 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22417</guid>
 		<description>&lt;p&gt;Learn English collocations related to quality control, particularly the service aspect.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/07/07/bep-409-quality-control-2-customer-service/&quot;&gt;BEP 409 – Quality Control 2: Customer Service&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP409-Quality-Control-2.mp3" length="23843689" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/07/07/bep-409-quality-control-2-customer-service/"&gt;BEP 409 – Quality Control 2: Customer Service&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="23843689" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP409-Quality-Control-2.mp3"/>
 		<itunes:subtitle>Learn English collocations related to quality control, particularly the service aspect.</itunes:subtitle>
 		<itunes:summary>Learn English collocations related to quality control, particularly the service aspect.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -666,32 +648,32 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/07/07/bep-409-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>24:19</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 408 &#8211; Quality Control 1: Manufacturing</title>
+		<title>BEP 408 – Quality Control 1: Manufacturing</title>
 		<link>https://www.businessenglishpod.com/2024/06/23/bep-408-quality-control-1-manufacturing/</link>
 		<pubDate>Sun, 23 Jun 2024 17:09:30 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22386</guid>
 		<description>&lt;p&gt;Learn English collocations for discussing quality control in the manufacturing process.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/06/23/bep-408-quality-control-1-manufacturing/&quot;&gt;BEP 408 – Quality Control 1: Manufacturing&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP408-Quality-Control-1.mp3" length="23592697" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/06/23/bep-408-quality-control-1-manufacturing/"&gt;BEP 408 – Quality Control 1: Manufacturing&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="23592697" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP408-Quality-Control-1.mp3"/>
 		<itunes:subtitle>Learn English collocations for discussing quality control in the manufacturing process.</itunes:subtitle>
 		<itunes:summary>Learn English collocations for discussing quality control in the manufacturing process.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>24:03</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; How to Overcome Cognitive Bias</title>
+		<title>Skills 360 – How to Overcome Cognitive Bias</title>
 		<link>https://www.businessenglishpod.com/2024/06/09/skills-360-how-to-overcome-cognitive-bias/</link>
 		<pubDate>Sun, 09 Jun 2024 16:55:07 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22251</guid>
 		<description>&lt;p&gt;Learn how to overcome the cognitive biases that may impact decision-making.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/06/09/skills-360-how-to-overcome-cognitive-bias/&quot;&gt;Skills 360 – How to Overcome Cognitive Bias&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.98-Cognitive-Bias-2.mp3" length="7587894" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/06/09/skills-360-how-to-overcome-cognitive-bias/"&gt;Skills 360 – How to Overcome Cognitive Bias&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7587894" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.98-Cognitive-Bias-2.mp3"/>
 		<itunes:subtitle>Learn how to overcome the cognitive biases that may impact decision-making.</itunes:subtitle>
 		<itunes:summary>Learn how to overcome the cognitive biases that may impact decision-making.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -699,16 +681,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/06/09/skills-3
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:29</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; What is Cognitive Bias?</title>
+		<title>Skills 360 – What is Cognitive Bias?</title>
 		<link>https://www.businessenglishpod.com/2024/05/26/skills-360-understanding-cognitive-bias/</link>
 		<pubDate>Sun, 26 May 2024 18:28:22 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22203</guid>
 		<description>&lt;p&gt;In this Skills 360 lessons we look at cognitive bias.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/05/26/skills-360-understanding-cognitive-bias/&quot;&gt;Skills 360 – What is Cognitive Bias?&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.97-Cognitive-Bias-1.mp3" length="7197102" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/05/26/skills-360-understanding-cognitive-bias/"&gt;Skills 360 – What is Cognitive Bias?&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7197102" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.97-Cognitive-Bias-1.mp3"/>
 		<itunes:subtitle>In this Skills 360 lessons we look at cognitive bias.</itunes:subtitle>
 		<itunes:summary>In this Skills 360 lessons we look at cognitive bias.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -716,16 +698,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/05/26/skills-3
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:05</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 35c &#8211; English Meetings: Clarifying What Was Meant</title>
+		<title>BEP 35c – English Meetings: Clarifying What Was Meant</title>
 		<link>https://www.businessenglishpod.com/2024/05/12/bep-35c-meetings-clarifying-what-was-meant/</link>
 		<pubDate>Sun, 12 May 2024 18:50:03 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=22121</guid>
 		<description>&lt;p&gt;Learn how to clarify the meaning of what someone says.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/05/12/bep-35c-meetings-clarifying-what-was-meant/&quot;&gt;BEP 35c – English Meetings: Clarifying What Was Meant&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP035c-Clarifying-2.mp3" length="16351967" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/05/12/bep-35c-meetings-clarifying-what-was-meant/"&gt;BEP 35c – English Meetings: Clarifying What Was Meant&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="16351967" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP035c-Clarifying-2.mp3"/>
 		<itunes:subtitle>Learn how to clarify the meaning of what someone says.</itunes:subtitle>
 		<itunes:summary>Learn how to clarify the meaning of what someone says.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -733,16 +715,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/05/12/bep-35c-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>16:30</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 407 &#8211; Financial English 5: Comparing Opportunities</title>
+		<title>BEP 407 – Financial English 5: Comparing Opportunities</title>
 		<link>https://www.businessenglishpod.com/2024/04/28/bep-407-financial-english-5-comparing-opportunities/</link>
 		<pubDate>Sun, 28 Apr 2024 19:46:33 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21971</guid>
 		<description>&lt;p&gt;Learn English for finance in this lesson on comparing investment opportunities with a client.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/04/28/bep-407-financial-english-5-comparing-opportunities/&quot;&gt;BEP 407 – Financial English 5: Comparing Opportunities&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-407-Financial-English-5-Comparing.mp3" length="22708305" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/04/28/bep-407-financial-english-5-comparing-opportunities/"&gt;BEP 407 – Financial English 5: Comparing Opportunities&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="22708305" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-407-Financial-English-5-Comparing.mp3"/>
 		<itunes:subtitle>Learn English for finance in this lesson on comparing investment opportunities with a client.</itunes:subtitle>
 		<itunes:summary>Learn English for finance in this lesson on comparing investment opportunities with a client.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -750,48 +732,48 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/04/28/bep-407-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:08</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 406 &#8211; Financial English 4: Pitching a New Opportunity</title>
+		<title>BEP 406 – Financial English 4: Pitching a New Opportunity</title>
 		<link>https://www.businessenglishpod.com/2024/04/14/bep-406-financial-english-4-pitching-new-opportunity/</link>
 		<pubDate>Sun, 14 Apr 2024 20:01:09 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21942</guid>
 		<description>&lt;p&gt;Learn financial English in this Business English lesson on pitching an investment opportunity to a client.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/04/14/bep-406-financial-english-4-pitching-new-opportunity/&quot;&gt;BEP 406 – Financial English 4: Pitching a New Opportunity&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP-406-Financial-English-4-Pitching.mp3" length="22381048" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/04/14/bep-406-financial-english-4-pitching-new-opportunity/"&gt;BEP 406 – Financial English 4: Pitching a New Opportunity&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="22381048" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP-406-Financial-English-4-Pitching.mp3"/>
 		<itunes:subtitle>Learn financial English in this Business English lesson on pitching an investment opportunity to a client.</itunes:subtitle>
 		<itunes:summary>Learn financial English in this Business English lesson on pitching an investment opportunity to a client.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>22:47</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 56 &#8211; Deglobalization</title>
+		<title>Business English News 56 – Deglobalization</title>
 		<link>https://www.businessenglishpod.com/2024/04/01/business-english-news-56-deglobalization/</link>
 		<pubDate>Mon, 01 Apr 2024 20:01:48 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21890</guid>
 		<description>&lt;p&gt;In this Business English News lesson on the trend toward deglobalization, we look at business English vocabulary related to economics and global trade. The past few years have been a very interesting time for the world economy. A pandemic has exposed the vulnerabilities of global supply chains. Geopolitical tensions around the world have intensified, stoking […]&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/04/01/business-english-news-56-deglobalization/&quot;&gt;Business English News 56 – Deglobalization&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN56-Deglobalization.mp3" length="6236106" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/04/01/business-english-news-56-deglobalization/"&gt;Business English News 56 – Deglobalization&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6236106" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN56-Deglobalization.mp3"/>
 		<itunes:subtitle>In this Business English News lesson on the trend toward deglobalization, we look at business English vocabulary related to economics and global trade. The past few years have been a very interesting time for the world economy.</itunes:subtitle>
 		<itunes:summary>In this Business English News lesson on the trend toward deglobalization, we look at business English vocabulary related to economics and global trade. The past few years have been a very interesting time for the world economy. A pandemic has exposed the vulnerabilities of global supply chains. Geopolitical tensions around the world have intensified, stoking […]</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>5:58</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 34c &#8211; Clarifying and Confirming What Was Said</title>
+		<title>BEP 34c – Clarifying and Confirming What Was Said</title>
 		<link>https://www.businessenglishpod.com/2024/03/17/bep-34c-clarifying-confirming/</link>
 		<pubDate>Sun, 17 Mar 2024 17:47:04 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21754</guid>
 		<description>&lt;p&gt;Learn how to clarify and confirm what was said during a conversation.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/03/17/bep-34c-clarifying-confirming/&quot;&gt;BEP 34c – Clarifying and Confirming What Was Said&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP034c-Clarifying-1.mp3" length="14130928" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/03/17/bep-34c-clarifying-confirming/"&gt;BEP 34c – Clarifying and Confirming What Was Said&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="14130928" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP034c-Clarifying-1.mp3"/>
 		<itunes:subtitle>Learn how to clarify and confirm what was said during a conversation.</itunes:subtitle>
 		<itunes:summary>Learn how to clarify and confirm what was said during a conversation.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -799,64 +781,64 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/03/17/bep-34c-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>14:12</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; What is DEI: Diversity, Equity and Inclusion</title>
+		<title>Skills 360 – What is DEI: Diversity, Equity and Inclusion</title>
 		<link>https://www.businessenglishpod.com/2024/03/03/skills-360-what-is-dei-diversity-equity-inclusion/</link>
 		<pubDate>Sun, 03 Mar 2024 19:41:27 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21723</guid>
 		<description>&lt;p&gt;Learn about the impact and implications of DEI - or diversity, equity, and inclusion - on the workplace.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/03/03/skills-360-what-is-dei-diversity-equity-inclusion/&quot;&gt;Skills 360 – What is DEI: Diversity, Equity and Inclusion&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.96-ESG-2.mp3" length="6745916" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/03/03/skills-360-what-is-dei-diversity-equity-inclusion/"&gt;Skills 360 – What is DEI: Diversity, Equity and Inclusion&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6745916" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.96-ESG-2.mp3"/>
 		<itunes:subtitle>Learn about the impact and implications of DEI - or diversity, equity, and inclusion - on the workplace.</itunes:subtitle>
 		<itunes:summary>Learn about the impact and implications of DEI - or diversity, equity, and inclusion - on the workplace.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; What is ESG: Environmental, Social and Governance</title>
+		<title>Skills 360 – What is ESG: Environmental, Social and Governance</title>
 		<link>https://www.businessenglishpod.com/2024/02/18/skills-360-esg-environmental-social-and-governance/</link>
 		<pubDate>Sun, 18 Feb 2024 22:08:59 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21656</guid>
 		<description>&lt;p&gt;Learn what ESG is all about as we look at environmental, social and governance concerns.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/02/18/skills-360-esg-environmental-social-and-governance/&quot;&gt;Skills 360 – What is ESG: Environmental, Social and Governance&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.95-ESG-1.mp3" length="6163904" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/02/18/skills-360-esg-environmental-social-and-governance/"&gt;Skills 360 – What is ESG: Environmental, Social and Governance&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6163904" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.95-ESG-1.mp3"/>
 		<itunes:subtitle>Learn what ESG is all about as we look at environmental, social and governance concerns.</itunes:subtitle>
 		<itunes:summary>Learn what ESG is all about as we look at environmental, social and governance concerns.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 405 &#8211; English Idioms about Animals (2)</title>
+		<title>BEP 405 – English Idioms about Animals (2)</title>
 		<link>https://www.businessenglishpod.com/2024/02/04/bep-405-english-idioms-about-animals-2/</link>
 		<pubDate>Sun, 04 Feb 2024 20:23:33 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21611</guid>
 		<description>&lt;p&gt;Learn English idioms related to animals.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/02/04/bep-405-english-idioms-about-animals-2/&quot;&gt;BEP 405 – English Idioms about Animals (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP405-Animal-Idioms-2.mp3" length="22095986" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/02/04/bep-405-english-idioms-about-animals-2/"&gt;BEP 405 – English Idioms about Animals (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="22095986" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP405-Animal-Idioms-2.mp3"/>
 		<itunes:subtitle>Learn English idioms related to animals.</itunes:subtitle>
 		<itunes:summary>Learn English idioms related to animals.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>22:29</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 404 &#8211; English Idioms about Animals (1)</title>
+		<title>BEP 404 – English Idioms about Animals (1)</title>
 		<link>https://www.businessenglishpod.com/2024/01/21/bep-404-english-idioms-about-animals-1/</link>
 		<pubDate>Sun, 21 Jan 2024 17:18:00 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21410</guid>
 		<description>&lt;p&gt;Learn English idioms related to animals.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/01/21/bep-404-english-idioms-about-animals-1/&quot;&gt;BEP 404 – English Idioms about Animals (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP404-Animal-Idioms-1.mp3" length="22561163" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/01/21/bep-404-english-idioms-about-animals-1/"&gt;BEP 404 – English Idioms about Animals (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="22561163" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP404-Animal-Idioms-1.mp3"/>
 		<itunes:subtitle>Learn English idioms related to animals.</itunes:subtitle>
 		<itunes:summary>Learn English idioms related to animals.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -864,16 +846,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/01/21/bep-404-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>22:59</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 55 &#8211; 2024 Global Economic Outlook</title>
+		<title>Business English News 55 – 2024 Global Economic Outlook</title>
 		<link>https://www.businessenglishpod.com/2024/01/07/business-english-news-55-2024-global-economic-outlook/</link>
 		<pubDate>Sun, 07 Jan 2024 18:05:31 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21365</guid>
 		<description>&lt;p&gt;In this Business English News lesson, we look at business English vocabulary related to the economy and finance and the global economic outlook for 2024.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/01/07/business-english-news-55-2024-global-economic-outlook/&quot;&gt;Business English News 55 – 2024 Global Economic Outlook&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN55-2024-Outlook.mp3" length="5562868" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2024/01/07/business-english-news-55-2024-global-economic-outlook/"&gt;Business English News 55 – 2024 Global Economic Outlook&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="5562868" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN55-2024-Outlook.mp3"/>
 		<itunes:subtitle>In this Business English News lesson, we look at business English vocabulary related to the economy and finance and the global economic outlook for 2024.</itunes:subtitle>
 		<itunes:summary>In this Business English News lesson, we look at business English vocabulary related to the economy and finance and the global economic outlook for 2024.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -881,16 +863,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2024/01/07/business
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:03</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 33c &#8211; English Presentation: Summarizing and Call to Action</title>
+		<title>BEP 33c – English Presentation: Summarizing and Call to Action</title>
 		<link>https://www.businessenglishpod.com/2023/12/10/bep-33c-presentations-summarizing-and-call-to-action/</link>
 		<pubDate>Sun, 10 Dec 2023 21:37:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21274</guid>
 		<description>&lt;p&gt;Learn how to finish a presentation in English with a summary and a call to action.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/12/10/bep-33c-presentations-summarizing-and-call-to-action/&quot;&gt;BEP 33c – English Presentation: Summarizing and Call to Action&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP033c-Presentations-Finishing.mp3" length="17320814" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/12/10/bep-33c-presentations-summarizing-and-call-to-action/"&gt;BEP 33c – English Presentation: Summarizing and Call to Action&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="17320814" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP033c-Presentations-Finishing.mp3"/>
 		<itunes:subtitle>Learn how to finish a presentation in English with a summary and a call to action.</itunes:subtitle>
 		<itunes:summary>Learn how to finish a presentation in English with a summary and a call to action.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -898,16 +880,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/12/10/bep-33c-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>17:30</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 403 &#8211; Recruiting 2: Developing the Job Description</title>
+		<title>BEP 403 – Recruiting 2: Developing the Job Description</title>
 		<link>https://www.businessenglishpod.com/2023/11/26/bep-403-recruiting-2-developing-the-job-description/</link>
 		<pubDate>Sun, 26 Nov 2023 18:43:52 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21216</guid>
 		<description>&lt;p&gt;Learn English for HR and how to develop a job description.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/11/26/bep-403-recruiting-2-developing-the-job-description/&quot;&gt;BEP 403 – Recruiting 2: Developing the Job Description&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP403-Recruiting-2.mp3" length="21983984" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/11/26/bep-403-recruiting-2-developing-the-job-description/"&gt;BEP 403 – Recruiting 2: Developing the Job Description&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21983984" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP403-Recruiting-2.mp3"/>
 		<itunes:subtitle>Learn English for HR and how to develop a job description.</itunes:subtitle>
 		<itunes:summary>Learn English for HR and how to develop a job description.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -915,16 +897,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/11/26/bep-403-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>22:22</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 402 &#8211; Recruiting 1: Identifying Needs</title>
+		<title>BEP 402 – Recruiting 1: Identifying Needs</title>
 		<link>https://www.businessenglishpod.com/2023/11/12/bep-402-recruiting-1-identifying-needs/</link>
 		<pubDate>Sun, 12 Nov 2023 20:17:31 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21146</guid>
 		<description>&lt;p&gt;Learn English for HR in this lessons on recruiting and identifying needs.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/11/12/bep-402-recruiting-1-identifying-needs/&quot;&gt;BEP 402 – Recruiting 1: Identifying Needs&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP402-Recruiting-1.mp3" length="21634975" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/11/12/bep-402-recruiting-1-identifying-needs/"&gt;BEP 402 – Recruiting 1: Identifying Needs&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21634975" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP402-Recruiting-1.mp3"/>
 		<itunes:subtitle>Learn English for HR in this lessons on recruiting and identifying needs.</itunes:subtitle>
 		<itunes:summary>Learn English for HR in this lessons on recruiting and identifying needs.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -932,16 +914,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/11/12/bep-402-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>22:01</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Managing Up 2: How to Manage Up</title>
+		<title>Skills 360 – Managing Up 2: How to Manage Up</title>
 		<link>https://www.businessenglishpod.com/2023/10/29/skills-360-managing-up-2-how-to-do-it/</link>
 		<pubDate>Sun, 29 Oct 2023 18:26:11 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=21108</guid>
 		<description>&lt;p&gt;Learn how to manage up and develop a better relationship with your boss.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/10/29/skills-360-managing-up-2-how-to-do-it/&quot;&gt;Skills 360 – Managing Up 2: How to Manage Up&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/forcedn/bizpod/360.94-Managing-Up-2.mp3" length="6562634" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/10/29/skills-360-managing-up-2-how-to-do-it/"&gt;Skills 360 – Managing Up 2: How to Manage Up&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="6562634" type="audio/mpeg" url="https://traffic.libsyn.com/forcedn/bizpod/360.94-Managing-Up-2.mp3"/>
 		<itunes:subtitle>Learn how to manage up and develop a better relationship with your boss.</itunes:subtitle>
 		<itunes:summary>Learn how to manage up and develop a better relationship with your boss.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -949,16 +931,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/10/29/skills-3
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>6:25</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Skills 360 &#8211; Managing Up 1: Working with your Boss</title>
+		<title>Skills 360 – Managing Up 1: Working with your Boss</title>
 		<link>https://www.businessenglishpod.com/2023/10/08/skills-360-managing-up-1-working-with-your-boss/</link>
 		<pubDate>Sun, 08 Oct 2023 20:21:46 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20999</guid>
 		<description>&lt;p&gt;In this Business English Skills 360 lesson, we look at English for management and how to manage up by developing a new relationship with your boss.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/10/08/skills-360-managing-up-1-working-with-your-boss/&quot;&gt;Skills 360 – Managing Up 1: Working with your Boss&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/360.93-Managing-Up-1.mp3" length="7317058" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/10/08/skills-360-managing-up-1-working-with-your-boss/"&gt;Skills 360 – Managing Up 1: Working with your Boss&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="7317058" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/360.93-Managing-Up-1.mp3"/>
 		<itunes:subtitle>In this Business English Skills 360 lesson, we look at English for management and how to manage up by developing a new relationship with your boss.</itunes:subtitle>
 		<itunes:summary>In this Business English Skills 360 lesson, we look at English for management and how to manage up by developing a new relationship with your boss.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -966,16 +948,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/10/08/skills-3
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>7:12</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 401 &#8211; Socializing at Work 2: Deepening the Conversation</title>
+		<title>BEP 401 – Socializing at Work 2: Deepening the Conversation</title>
 		<link>https://www.businessenglishpod.com/2023/09/24/bep-401-socializing-at-work-2-deepening-the-conversation/</link>
 		<pubDate>Sun, 24 Sep 2023 20:12:25 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20960</guid>
 		<description>&lt;p&gt;Learn English for socializing with colleagues in this lesson on how to deepen the conversation.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/09/24/bep-401-socializing-at-work-2-deepening-the-conversation/&quot;&gt;BEP 401 – Socializing at Work 2: Deepening the Conversation&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP401-Socializing-Colleagues-2.mp3" length="20525711" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/09/24/bep-401-socializing-at-work-2-deepening-the-conversation/"&gt;BEP 401 – Socializing at Work 2: Deepening the Conversation&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="20525711" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP401-Socializing-Colleagues-2.mp3"/>
 		<itunes:subtitle>Learn English for socializing with colleagues in this lesson on how to deepen the conversation.</itunes:subtitle>
 		<itunes:summary>Learn English for socializing with colleagues in this lesson on how to deepen the conversation.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -983,16 +965,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/09/24/bep-401-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>20:51</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 400 &#8211; Socializing with Colleagues 1: Meeting New People</title>
+		<title>BEP 400 – Socializing with Colleagues 1: Meeting New People</title>
 		<link>https://www.businessenglishpod.com/2023/09/10/bep-400-socializing-with-colleagues-1-meeting-new-people/</link>
 		<pubDate>Sun, 10 Sep 2023 20:40:39 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20925</guid>
 		<description>&lt;p&gt;Learn English for socializing with colleagues that you are meeting for the first time.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/09/10/bep-400-socializing-with-colleagues-1-meeting-new-people/&quot;&gt;BEP 400 – Socializing with Colleagues 1: Meeting New People&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP400-Socializing-Colleagues-1.mp3" length="20012457" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/09/10/bep-400-socializing-with-colleagues-1-meeting-new-people/"&gt;BEP 400 – Socializing with Colleagues 1: Meeting New People&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="20012457" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP400-Socializing-Colleagues-1.mp3"/>
 		<itunes:subtitle>Learn English for socializing with colleagues that you are meeting for the first time.</itunes:subtitle>
 		<itunes:summary>Learn English for socializing with colleagues that you are meeting for the first time.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1000,16 +982,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/09/10/bep-400-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>20:19</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 31c &#8211; English for Meetings: Responding to Suggestions</title>
+		<title>BEP 31c – English for Meetings: Responding to Suggestions</title>
 		<link>https://www.businessenglishpod.com/2023/08/27/bep-31c-english-for-meetings-responding-to-suggestions/</link>
 		<pubDate>Sun, 27 Aug 2023 18:23:46 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20889</guid>
 		<description>&lt;p&gt;Learn how to respond positively and negatively to suggestions in this English for meetings lesson.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/08/27/bep-31c-english-for-meetings-responding-to-suggestions/&quot;&gt;BEP 31c – English for Meetings: Responding to Suggestions&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP031c-Responding-Suggestions.mp3" length="15399027" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/08/27/bep-31c-english-for-meetings-responding-to-suggestions/"&gt;BEP 31c – English for Meetings: Responding to Suggestions&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="15399027" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP031c-Responding-Suggestions.mp3"/>
 		<itunes:subtitle>Learn how to respond positively and negatively to suggestions in this English for meetings lesson.</itunes:subtitle>
 		<itunes:summary>Learn how to respond positively and negatively to suggestions in this English for meetings lesson.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1017,16 +999,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/08/27/bep-31c-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>15:31</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 54 &#8211; Tech Takeovers</title>
+		<title>Business English News 54 – Tech Takeovers</title>
 		<link>https://www.businessenglishpod.com/2023/08/01/business-english-news-54-tech-takeovers/</link>
 		<pubDate>Tue, 01 Aug 2023 09:39:45 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20811</guid>
 		<description>&lt;p&gt;Learn business English vocabulary related to takeovers and finance.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/08/01/business-english-news-54-tech-takeovers/&quot;&gt;Business English News 54 – Tech Takeovers&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN54-Takeovers.mp3" length="5409525" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/08/01/business-english-news-54-tech-takeovers/"&gt;Business English News 54 – Tech Takeovers&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="5409525" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN54-Takeovers.mp3"/>
 		<itunes:subtitle>Learn business English vocabulary related to takeovers and finance.</itunes:subtitle>
 		<itunes:summary>Learn business English vocabulary related to takeovers and finance.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1034,32 +1016,32 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/08/01/business
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>5:43</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 30c &#8211; English for Meetings: Making Suggestions</title>
+		<title>BEP 30c – English for Meetings: Making Suggestions</title>
 		<link>https://www.businessenglishpod.com/2023/07/16/bep-30c-english-for-meetings-making-suggestions/</link>
 		<pubDate>Sun, 16 Jul 2023 23:26:14 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20771</guid>
 		<description>&lt;p&gt;In this lesson we look at how to make suggestions in English.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/07/16/bep-30c-english-for-meetings-making-suggestions/&quot;&gt;BEP 30c – English for Meetings: Making Suggestions&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP030c-Suggestions.mp3" length="15962858" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/07/16/bep-30c-english-for-meetings-making-suggestions/"&gt;BEP 30c – English for Meetings: Making Suggestions&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="15962858" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP030c-Suggestions.mp3"/>
 		<itunes:subtitle>In this lesson we look at how to make suggestions in English.</itunes:subtitle>
 		<itunes:summary>In this lesson we look at how to make suggestions in English.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
 		<itunes:episodeType>full</itunes:episodeType>
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>16:06</itunes:duration>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 399 &#8211; English for Sales: Financial Services (3)</title>
+		<title>BEP 399 – English for Sales: Financial Services (3)</title>
 		<link>https://www.businessenglishpod.com/2023/07/02/bep-399-english-for-sales-financial-services-3/</link>
 		<pubDate>Sun, 02 Jul 2023 21:18:11 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20738</guid>
 		<description>&lt;p&gt;Learn English for finance and how to sell financial services.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/07/02/bep-399-english-for-sales-financial-services-3/&quot;&gt;BEP 399 – English for Sales: Financial Services (3)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP399-Financial-Services-3.mp3" length="21229552" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/07/02/bep-399-english-for-sales-financial-services-3/"&gt;BEP 399 – English for Sales: Financial Services (3)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21229552" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP399-Financial-Services-3.mp3"/>
 		<itunes:subtitle>Learn English for finance and how to sell financial services.</itunes:subtitle>
 		<itunes:summary>Learn English for finance and how to sell financial services.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1067,16 +1049,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/07/02/bep-399-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>21:35</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 398 &#8211; English for Sales: Financial Services (2)</title>
+		<title>BEP 398 – English for Sales: Financial Services (2)</title>
 		<link>https://www.businessenglishpod.com/2023/06/19/bep-398-english-for-sales-financial-services-2/</link>
 		<pubDate>Mon, 19 Jun 2023 16:09:13 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20701</guid>
 		<description>&lt;p&gt;Learn financial English vocabulary and sales skills.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/06/19/bep-398-english-for-sales-financial-services-2/&quot;&gt;BEP 398 – English for Sales: Financial Services (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP398-Financial-Services-2.mp3" length="23122072" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/06/19/bep-398-english-for-sales-financial-services-2/"&gt;BEP 398 – English for Sales: Financial Services (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="23122072" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP398-Financial-Services-2.mp3"/>
 		<itunes:subtitle>Learn financial English vocabulary and sales skills.</itunes:subtitle>
 		<itunes:summary>Learn financial English vocabulary and sales skills.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1084,16 +1066,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/06/19/bep-398-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:34</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 397 &#8211; English for Sales: Financial Services (1)</title>
+		<title>BEP 397 – English for Sales: Financial Services (1)</title>
 		<link>https://www.businessenglishpod.com/2023/06/04/bep-397-english-for-sales-financial-services-1/</link>
 		<pubDate>Sun, 04 Jun 2023 21:24:01 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20649</guid>
 		<description>&lt;p&gt;Learn English for sales and how to sell financial services.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/06/04/bep-397-english-for-sales-financial-services-1/&quot;&gt;BEP 397 – English for Sales: Financial Services (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP397-Financial-Services-1.mp3" length="16904283" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/06/04/bep-397-english-for-sales-financial-services-1/"&gt;BEP 397 – English for Sales: Financial Services (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="16904283" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP397-Financial-Services-1.mp3"/>
 		<itunes:subtitle>Learn English for sales and how to sell financial services.</itunes:subtitle>
 		<itunes:summary>Learn English for sales and how to sell financial services.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1101,16 +1083,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/06/04/bep-397-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>23:23</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>Business English News 53 &#8211; TikTok</title>
+		<title>Business English News 53 – TikTok</title>
 		<link>https://www.businessenglishpod.com/2023/05/16/business-english-news-53-tiktok/</link>
 		<pubDate>Tue, 16 May 2023 23:19:24 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20613</guid>
 		<description>&lt;p&gt;Learn vocabulary related to technology in this lesson on TikTok.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/05/16/business-english-news-53-tiktok/&quot;&gt;Business English News 53 – TikTok&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEN53-TikTok.mp3" length="4879969" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/05/16/business-english-news-53-tiktok/"&gt;Business English News 53 – TikTok&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="4879969" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEN53-TikTok.mp3"/>
 		<itunes:subtitle>Learn vocabulary related to technology in this lesson on TikTok.</itunes:subtitle>
 		<itunes:summary>Learn vocabulary related to technology in this lesson on TikTok.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1118,16 +1100,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/05/16/business
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>5:15</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 29c &#8211; Meetings in English: How to Disagree</title>
+		<title>BEP 29c – Meetings in English: How to Disagree</title>
 		<link>https://www.businessenglishpod.com/2023/05/01/bep-29c-meetings-in-english-how-to-disagree/</link>
 		<pubDate>Mon, 01 May 2023 18:48:05 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20524</guid>
 		<description>&lt;p&gt;Learn how to disagree in meetings in English.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/05/01/bep-29c-meetings-in-english-how-to-disagree/&quot;&gt;BEP 29c – Meetings in English: How to Disagree&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP029c-Disagreeing.mp3" length="13922368" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/05/01/bep-29c-meetings-in-english-how-to-disagree/"&gt;BEP 29c – Meetings in English: How to Disagree&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="13922368" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP029c-Disagreeing.mp3"/>
 		<itunes:subtitle>Learn how to disagree in meetings in English.</itunes:subtitle>
 		<itunes:summary>Learn how to disagree in meetings in English.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1135,16 +1117,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/05/01/bep-29c-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>13:59</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 396 &#8211; Strategic Decision-Making (2)</title>
+		<title>BEP 396 – Strategic Decision-Making (2)</title>
 		<link>https://www.businessenglishpod.com/2023/04/16/bep-396-strategic-decision-making-2/</link>
 		<pubDate>Sun, 16 Apr 2023 22:35:38 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20507</guid>
 		<description>&lt;p&gt;Learn business English for discussing strategy and making strategic decisions.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/04/16/bep-396-strategic-decision-making-2/&quot;&gt;BEP 396 – Strategic Decision-Making (2)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP396-Strategic-Decisions-2.mp3" length="21330280" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/04/16/bep-396-strategic-decision-making-2/"&gt;BEP 396 – Strategic Decision-Making (2)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="21330280" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP396-Strategic-Decisions-2.mp3"/>
 		<itunes:subtitle>Learn business English for discussing strategy and making strategic decisions.</itunes:subtitle>
 		<itunes:summary>Learn business English for discussing strategy and making strategic decisions.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1152,16 +1134,16 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/04/16/bep-396-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>21:42</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 	<item>
-		<title>BEP 395 &#8211; Strategic Decision-Making (1)</title>
+		<title>BEP 395 – Strategic Decision-Making (1)</title>
 		<link>https://www.businessenglishpod.com/2023/03/26/bep-395-strategic-decision-making-1/</link>
 		<pubDate>Sun, 26 Mar 2023 19:59:04 +0000</pubDate>
 		<guid isPermaLink="false">https://www.businessenglishpod.com/?p=20447</guid>
 		<description>&lt;p&gt;Learn business English for discussing strategy and making strategic decisions.&lt;/p&gt;
 &gt;&gt;&gt;
-The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/03/26/bep-395-strategic-decision-making-1/&quot;&gt;BEP 395 – Strategic Decision-Making (1)&lt;/a&gt; first appeared on &lt;a href=&quot;https://www.businessenglishpod.com&quot;&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
-		<enclosure url="https://traffic.libsyn.com/secure/bizpod/BEP395-Strategic-Decisions-1.mp3" length="19945582" type="audio/mpeg" />
+The post &lt;a href="https://www.businessenglishpod.com/2023/03/26/bep-395-strategic-decision-making-1/"&gt;BEP 395 – Strategic Decision-Making (1)&lt;/a&gt; first appeared on &lt;a href="https://www.businessenglishpod.com"&gt;Business English Pod :: Learn Business English Online&lt;/a&gt;.</description>
+		<enclosure length="19945582" type="audio/mpeg" url="https://traffic.libsyn.com/secure/bizpod/BEP395-Strategic-Decisions-1.mp3"/>
 		<itunes:subtitle>Learn business English for discussing strategy and making strategic decisions.</itunes:subtitle>
 		<itunes:summary>Learn business English for discussing strategy and making strategic decisions.</itunes:summary>
 		<itunes:author>www.BusinessEnglishPod.com</itunes:author>
@@ -1169,6 +1151,6 @@ The post &lt;a href=&quot;https://www.businessenglishpod.com/2023/03/26/bep-395-
 		<itunes:explicit>false</itunes:explicit>
 		<itunes:duration>20:15</itunes:duration>
 		<itunes:block>yes</itunes:block>
-	</item>
+	<author>businessenglishpod@mac.com (www.BusinessEnglishPod.com)</author><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords></item>
 </channel>
 </rss>
