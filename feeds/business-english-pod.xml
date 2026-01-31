@@ -4,7 +4,7 @@
 	<atom:link href="https://www.businessenglishpod.com/feed/podcast/" rel="self" type="application/rss+xml"/>
 	<link>https://www.businessenglishpod.com</link>
 	<description>To access all 600+ Business English Podcasts visit our website at: www.businessenglishpod.com.  Learn business English conversation and listening skills, vocabulary, idioms, and more with effective business English lessons on everything from meetings, presentations, negotiations to sales, job interviews and finance. Our Business English lessons are designed to help you understand the language that we use to communicate and the reasons why we use it. Our goal is to teach natural and effective English for business. Each of our Business English lessons feature: 1) a realistic dialog, 2) clear explanations of vocabulary, idioms, and functional language, and 3) a practice and review section. You will learn what the speakers are saying, why they are saying it, and other ways you can express the same ideas. PDF transcripts for each lesson are available to members of our website. Members can also access our online quizzes and lesson modules - head over to the website and take a free trial to preview the lesson resources: https://www.businessenglishpod.com</description>
-	<lastBuildDate>Fri, 23 Jan 2026 14:11:06 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 31 Jan 2026 03:13:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -19,6 +19,7 @@
 </image> 
 	<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
 	<itunes:author>www.BusinessEnglishPod.com</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="https://www.businessenglishpod.com/wordpress/wp-content/uploads/Business-English-Pod-iTunes-3000.jpeg"/>
 	<itunes:type>episodic</itunes:type>
 	
@@ -31,7 +32,7 @@
 	<podcast:podping usesPodping="true"/>
 	<podcast:guid>427960a3-e296-5590-927b-dbc37f9ac387</podcast:guid>
 	<rawvoice:subscribe feed="https://www.businessenglishpod.com/feed/podcast/" itunes="https://podcasts.apple.com/podcast/business-english-pod-learn/id206603090" spotify="https://open.spotify.com/show/4nCHpl7GXuMu41Jn4xDLtH"/>
-	<itunes:explicit>no</itunes:explicit><itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords><itunes:summary>To access all 600+ Business English Podcasts visit our website at: www.businessenglishpod.com. &lt;br /&gt;
+	<itunes:keywords>business english,esl,lesson,listening,vocabulary</itunes:keywords><itunes:summary>To access all 600+ Business English Podcasts visit our website at: www.businessenglishpod.com. &lt;br /&gt;
 Learn business English conversation and listening skills, vocabulary, idioms, and more with effective business English lessons on everything from meetings, presentations, negotiations to sales, job interviews and finance. Our Business English lessons are designed to help you understand the language that we use to communicate and the reasons why we use it. Our goal is to teach natural and effective English for business. Each of our Business English lessons feature: 1) a realistic dialog, 2) clear explanations of vocabulary, idioms, and functional language, and 3) a practice and review section. You will learn what the speakers are saying, why they are saying it, and other ways you can express the same ideas. PDF transcripts for each lesson are available to members of our website. Members can also access our online quizzes and lesson modules - head over to the website and take a free trial to preview the lesson resources: https://www.businessenglishpod.com</itunes:summary><itunes:subtitle>Learn business English with your favorite business English lessons from Business English Pod!</itunes:subtitle><itunes:category text="Education"><itunes:category text="Language Courses"/></itunes:category><itunes:category text="Education"><itunes:category text="Training"/></itunes:category><itunes:owner><itunes:email>businessenglishpod@mac.com</itunes:email><itunes:name>www.BusinessEnglishPod.com</itunes:name></itunes:owner><item>
 		<title>Skills 360 – Developing Good Habits (2)</title>
 		<link>https://www.businessenglishpod.com/2026/01/18/skills-360-developing-good-habits-2/</link>
